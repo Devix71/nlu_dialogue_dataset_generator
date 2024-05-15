@@ -1,0 +1,6 @@
+{
+    "content": "{\n  \"pairs\": [\n    {\n      \"participant1\": {\n        \"role\": \"Train Conductor\",\n        \"goals\": [\"Check tickets\", \"Inform about next stop\"],\n        \"information\": \"Train schedule and stops\"\n      },\n      \"participant2\": {\n        \"role\": \"Passenger\",\n        \"goals\": [\"Find seat\", \"Inquire about luggage storage\"],\n        \"information\": \"Seat number and luggage details\"\n      }\n    }\n  ]\n}",
+    "role": "assistant",
+    "function_call": null,
+    "tool_calls": null
+}

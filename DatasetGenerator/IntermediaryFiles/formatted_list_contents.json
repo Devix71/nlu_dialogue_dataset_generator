@@ -1,0 +1,281 @@
+{
+    "scenarios": [
+        {
+            "dialogue_id": "TRAIN_CONVERSATION_1",
+            "turns": [
+                {
+                    "turn_id": 1,
+                    "speaker": "participant1",
+                    "utterance": "Good morning, may I see your ticket please?",
+                    "frames": [
+                        {
+                            "service": "train_service",
+                            "slots": [],
+                            "actions": [
+                                {
+                                    "act": "REQUEST",
+                                    "slot": "ticket",
+                                    "values": [
+                                        "Check tickets"
+                                    ]
+                                }
+                            ],
+                            "state": {
+                                "active_intent": "Check tickets",
+                                "slot_values": {}
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dialogue_id": "TRAIN_CONVERSATION_1",
+                    "turns": [
+                        {
+                            "turn_id": 2,
+                            "speaker": "participant2",
+                            "utterance": "Here is my ticket. Can you tell me where I can store my luggage?",
+                            "frames": [
+                                {
+                                    "service": "train_service",
+                                    "slots": [],
+                                    "actions": [
+                                        {
+                                            "act": "INFORM",
+                                            "slot": "ticket",
+                                            "values": []
+                                        },
+                                        {
+                                            "act": "REQUEST",
+                                            "slot": "luggage storage",
+                                            "values": [
+                                                "Inquire about luggage storage"
+                                            ]
+                                        }
+                                    ],
+                                    "state": {
+                                        "active_intent": "Find seat",
+                                        "slot_values": {}
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "dialogue_id": "TRAIN_CONVERSATION_1",
+                    "turns": [
+                        {
+                            "turn_id": 3,
+                            "speaker": "participant1",
+                            "utterance": "Your ticket is all set. For your luggage, you can store it above your seat or in the designated luggage area at the end of the carriage.",
+                            "frames": [
+                                {
+                                    "service": "train_service",
+                                    "slots": [],
+                                    "actions": [
+                                        {
+                                            "act": "INFORM",
+                                            "slot": "luggage storage",
+                                            "values": [
+                                                "above your seat",
+                                                "designated luggage area at the end of the carriage"
+                                            ]
+                                        },
+                                        {
+                                            "act": "INFORM",
+                                            "slot": "next stop",
+                                            "values": [
+                                                "Inform about next stop"
+                                            ]
+                                        }
+                                    ],
+                                    "state": {
+                                        "active_intent": "Check tickets",
+                                        "slot_values": {}
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "dialogue_id": "TRAIN_CONVERSATION_1",
+                    "turns": [
+                        {
+                            "turn_id": 4,
+                            "speaker": "participant2",
+                            "utterance": "Thanks for the information. How long until we reach the next stop?",
+                            "frames": [
+                                {
+                                    "service": "train_service",
+                                    "slots": [],
+                                    "actions": [
+                                        {
+                                            "act": "REQUEST",
+                                            "slot": "next stop time",
+                                            "values": [
+                                                "How long until next stop"
+                                            ]
+                                        }
+                                    ],
+                                    "state": {
+                                        "active_intent": "Inquire about next stop",
+                                        "slot_values": {}
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "dialogue_id": "TRAIN_CONVERSATION_1",
+                    "turns": [
+                        {
+                            "turn_id": 5,
+                            "speaker": "participant1",
+                            "utterance": "We will be reaching the next stop in approximately 20 minutes. Please let me know if you need any further assistance.",
+                            "frames": [
+                                {
+                                    "service": "train_service",
+                                    "slots": [],
+                                    "actions": [
+                                        {
+                                            "act": "INFORM",
+                                            "slot": "next stop time",
+                                            "values": [
+                                                "20 minutes"
+                                            ]
+                                        }
+                                    ],
+                                    "state": {
+                                        "active_intent": "Inform about next stop",
+                                        "slot_values": {}
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "dialogue_id": "TRAIN_CONVERSATION_1",
+                    "turns": [
+                        {
+                            "turn_id": 6,
+                            "speaker": "participant2",
+                            "utterance": "Thank you. Do you have a dining car on this train?",
+                            "frames": [
+                                {
+                                    "service": "train_service",
+                                    "slots": [],
+                                    "actions": [
+                                        {
+                                            "act": "REQUEST",
+                                            "slot": "dining car",
+                                            "values": [
+                                                "Do you have a dining car?"
+                                            ]
+                                        }
+                                    ],
+                                    "state": {
+                                        "active_intent": "Inquire about amenities",
+                                        "slot_values": {}
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "dialogue_id": "TRAIN_CONVERSATION_1",
+                    "turns": [
+                        {
+                            "turn_id": 7,
+                            "speaker": "participant1",
+                            "utterance": "Yes, we do have a dining car. It's located in the middle of the train. You can visit it anytime during the journey.",
+                            "frames": [
+                                {
+                                    "service": "train_service",
+                                    "slots": [],
+                                    "actions": [
+                                        {
+                                            "act": "INFORM",
+                                            "slot": "dining car location",
+                                            "values": [
+                                                "middle of the train",
+                                                "visit anytime during the journey"
+                                            ]
+                                        }
+                                    ],
+                                    "state": {
+                                        "active_intent": "Inform about amenities",
+                                        "slot_values": {}
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "dialogue_id": "TRAIN_CONVERSATION_1",
+                    "turns": [
+                        {
+                            "turn_id": 8,
+                            "speaker": "participant2",
+                            "utterance": "Great, I might check it out later. Is there Wi-Fi available on the train?",
+                            "frames": [
+                                {
+                                    "service": "train_service",
+                                    "slots": [],
+                                    "actions": [
+                                        {
+                                            "act": "REQUEST",
+                                            "slot": "Wi-Fi availability",
+                                            "values": [
+                                                "Is there Wi-Fi available?"
+                                            ]
+                                        }
+                                    ],
+                                    "state": {
+                                        "active_intent": "Inquire about amenities",
+                                        "slot_values": {}
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "dialogue_id": "TRAIN_CONVERSATION_1",
+                    "turns": [
+                        {
+                            "turn_id": 9,
+                            "speaker": "participant1",
+                            "utterance": "Yes, complimentary Wi-Fi is available throughout the train. You should be able to connect to it using the network name provided on your ticket.",
+                            "frames": [
+                                {
+                                    "service": "train_service",
+                                    "slots": [],
+                                    "actions": [
+                                        {
+                                            "act": "INFORM",
+                                            "slot": "Wi-Fi availability",
+                                            "values": [
+                                                "complimentary",
+                                                "throughout the train",
+                                                "network name provided on your ticket"
+                                            ]
+                                        }
+                                    ],
+                                    "state": {
+                                        "active_intent": "Inform about amenities",
+                                        "slot_values": {}
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
