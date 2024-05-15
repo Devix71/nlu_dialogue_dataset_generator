@@ -1,0 +1,1070 @@
+: none
+Ask about available food options in the train: none
+Know about amenities: find_hotel
+find out the next stop: none
+Satisfied with information provided: none
+Offer information about hotel amenities: find_hotel
+Ask about the next stop: none
+Inform passengers about next stop: none
+Inform that no train change is necessary: find_train
+Provide information about the next train stop: find_train
+Confirm booking and inquire about services: book_hotel
+Provide current train status: none
+Purchase a ticket for the next stop: book_train
+Update on train schedule: none
+Inquire about room amenities: find_hotel
+Verify passenger's ticket: none
+Check passengers' tickets: none
+Offer notification service signup: none
+Assist with luggage storage and ticket verification: none
+Request Information: none
+Inform about hotel facilities: find_hotel
+Obtain Information: none
+Inform passenger no train change necessary: find_train
+Providing assistance and information: none
+Complete order: book_hotel
+Book alternative route: book_train
+Ask about hotel amenities: find_hotel
+Providing the train schedule: find_train
+Get information about hotel amenities: find_hotel
+Ask about available food options on the train: none
+Inquire about amenities: none
+Ask how to book a ride with CityCabs: book_train
+Help with seating arrangements: none
+Find out if there are any delays: none
+Provide information on journey duration: none
+Provide Wi-Fi info: none
+inquiring_local_amenities: none
+Confirm availability of dining car: none
+Check-in process: find_hotel
+Find out arrival time: none
+Announce the next station: find_train
+Find out pre-departure requirements: none
+Provide ticket confirmation: book_train
+Find out how late dining options stay open near platform 4: find_train
+Direct the passenger to the dining car: none
+Sell tickets: none
+Confirm room reservation: book_hotel
+Inform passengers about upcoming stop: none
+Request for WiFi password: none
+Satisfied with information: none
+confirming the guest's reservation details: book_hotel
+Know about nearby attractions: none
+Purchase a ticket for the train: book_train
+Inform about dining car reservation policy: none
+Assist in ticket purchase: book_train
+Book amenities and inquire about gym hours: book_hotel
+Ask for train fare information: find_train
+General farewell: none
+Provide information on food purchase options: none
+Inquire about cafe on platform: none
+Receive room key: none
+Order food and inquire about Wi-Fi: none
+Assist with any travel information: none
+Inform about train schedule and nearby attractions: find_train
+Inquire about dining car services: none
+Find out next stop location: none
+Book a ticket for the 3:45 PM train: book_train
+find out train arrival time: find_train
+Provide directions to dining car: none
+Inquire about ticket counter location: none
+Inquire about ticket purchase options: book_train
+Provide train schedule and layover duration: find_train
+Find out the duration to the final destination: none
+Check alternative routes: none
+Announce upcoming station: find_train
+Inquire about ticket purchase: book_train
+Check for available seats: none
+Provide assistance: none
+Inquire journey duration: none
+Inform about train schedule and seat availability: find_train
+Find seat and storage: none
+Finding out the arrival time at the destination station: find_train
+Inform about luggage storage options: none
+Update guest information: none
+Ask for directions to the dining car: none
+Place order: none
+Getting information about local attractions: none
+Ensure compliance with train regulations: find_train
+Find out the departure time of the train: find_train
+Answer passenger's questions: none
+Provide information on train amenities: find_train
+Inform about journey duration: none
+Provide requested information: none
+Ask for directions to the recommended restaurant: none
+Provide location of restroom: none
+Inform the passenger about any delays: none
+Inquire about fare to final destination: find_train
+Verify the ticket: none
+Provide information about amenities on the train: find_train
+Provide information on stops: none
+Request hotel amenities: find_hotel
+Explain the onboard services: none
+Provide dining car details: none
+Inquire more details: none
+Ask about ticket prices: find_train
+Check tickets: none
+Inform about the train destination: find_train
+Confirm train timings: none
+Provide directions to the recommended restaurant: none
+provide departure information: find_train
+Inform about seat selection process: none
+Get information about seat availability: none
+Inform about ticket prices: none
+Provide train schedule and fare: find_train
+Provide information on nearby restaurants: none
+purchase ticket: none
+Announce next stop: none
+In charge of train operations: find_train
+Get information about train schedule: find_train
+Check-in at the front desk: find_hotel
+Ask for taxi frequency: none
+Finding out dining car availability: none
+Provide information on hotel amenities: find_hotel
+Find out train frequency: find_train
+Provide dining car operating hours information: none
+Find out amenities on the train: find_train
+Know about hotel facilities and services: find_hotel
+Assist passenger with ticket purchase: book_train
+inquire about dining car: none
+Express satisfaction: none
+Inform about shuttle schedule: none
+Get information about the next train departure time: find_train
+Get information about delays: none
+Inquire about pre-departure requirements: none
+Inquire about fare to Springfield: find_train
+Find travel time: none
+Check the available facilities on the train: find_train
+Verify ticket: none
+Announce the train schedule: find_train
+Provide information and services: none
+Has a preference for non-smoking rooms: find_hotel
+Inform about ticket policy: none
+Inquiring about train services: find_train
+Inquire about dining options: none
+service complete: none
+Inform about connecting trains: find_train
+General gratitude: none
+Inquire about arrival time before train departure: find_train
+Confirm dining car payment options: none
+End of interaction: none
+Inform the passenger about delays: none
+Announce upcoming stops: none
+Find out journey time to a specific location: none
+Inquire about train change: find_train
+Inquire about Nearby Restaurants: none
+No further assistance needed: none
+Find out the next departure time: find_train
+Inquire about nearby attractions: none
+Assist with any seating preferences: none
+Inform the passenger of amenities on the train: find_train
+Provide ticket purchasing options: book_train
+Provide train route information: find_train
+Find out about hotel amenities: find_hotel
+Promote available food options on the train: none
+Inquiring about amenities: find_hotel
+Provide information on train schedule: find_train
+Inquire menu prices: none
+Check the tickets of passengers: none
+Thank you for your help!: none
+Complete: none
+Request for water: none
+Inform about dining car reservation process: none
+Inquire about platform arrival time: none
+Inform about the next station: find_train
+Inform about Hotel Facilities: find_hotel
+Ask for directions to the nearest restroom: none
+Assistance: none
+Check in and inquire about restaurants: none
+Provide information on connecting trains: find_train
+Inform about hotel amenities: find_hotel
+Give directions to the nearest restroom: none
+Get information about the train: find_train
+Inform about available amenities on the train: find_train
+Confirm the next stop with the passenger: none
+Book spa appointment: none
+Offer room upgrades: find_hotel
+Find final destination: none
+Help passengers with connections: none
+Verify ticket and inquire about luggage storage: none
+Find out train departure time: find_train
+Provide information on onboard services: none
+Find out time until next station: find_train
+Check train schedule: find_train
+Book a ticket: book_train
+Inform delay duration: none
+Inquire: none
+Inquire about hotel facilities: find_hotel
+How late is the dining car open?: none
+Inquire about ticket requirement: none
+Provide the train schedule information: find_train
+Find out how to reserve dining car: none
+Announcing the next stop: find_train
+Confirm upgrade and suggest attractions: none
+Inform about dining car: none
+Ask for assistance with seating arrangements: none
+Ask about shuttle service: find_hotel
+Provide fare information: none
+Provide stop duration information: none
+Informing the passenger about the next stop: none
+Complete the check-in process: none
+Inform about seating availability: none
+closing: none
+No additional needs: none
+Announce the next station stop: none
+Book train ticket: book_train
+Assist passengers with inquiries: none
+Find out trip duration: none
+Provide information on next stop: none
+Conclude interaction: none
+Assistance offered: none
+Check the train's schedule: find_train
+Ask about the train schedule: find_train
+Inform about delay action: none
+Express gratitude: none
+Direct the passenger to the nearest restroom: none
+Inquire about ticket discounts: none
+Inquire about dining car hours: none
+Provide information on next stops: none
+Check if dining car available: none
+Find out how to access the dining car: find_train
+Provide information on local attractions: none
+Check for availability of snacks: none
+Provide information on transportation options: none
+Provide information on local eateries: none
+Announce the next train stop: none
+Assist passengers with connections: none
+Get train information: find_train
+Request for a room change: none
+Providing information on delays: none
+Provide train details: find_train
+Assist guest with travel arrangements: book_hotel
+Provide_train_services_info: none
+get_train_info: none
+Inform about the arrival time at the next station: find_train
+Ask for delay duration: none
+Assist with seat location: none
+Inquire about connecting trains: find_train
+Find out about the next stop: none
+Assist guest: none
+Inform about dining car availability and offer additional information: none
+Obtain train information: find_train
+Book service: book_hotel
+Find out the next stop: none
+Inquire about delay notifications: none
+Inquire about notification options: none
+Inquire about dining reservation: none
+Find out the arrival time of the train: find_train
+Inquire about train amenities: find_train
+Provide ticket: none
+Check-in to room: book_hotel
+Request booking for tours, events, breakfast, and inquire about gym facilities: none
+Help the passenger find the train schedule: find_train
+Locate restrooms: none
+Asking about dining car availability: none
+Request assistance: none
+Inform passengers about schedule changes: find_train
+Inform about the onboard facilities: none
+Assist passengers with information: none
+Provide information on dining options near platform 4: none
+Inform passengers about the next stop: none
+Inform the passenger of the next train stop: find_train
+Confirm departure time: none
+Buy a ticket for the next stop: book_train
+Find information: find_hotel
+Inquire about breakfast options: none
+Obtain_information: none
+Inform the passenger about the upcoming stop: none
+providing service: none
+Provide train amenities information: find_train
+Inquire about delay frequency: none
+Purchase a ticket for the destination: book_train
+Ask for train schedule: find_train
+End: none
+Find out the train arrival time: find_train
+Provide train arrival time: find_train
+Confirm restaurant reservation: none
+Find out the upcoming train stops: find_train
+Inquire about arrival time: none
+Check-in Guest: none
+Provide local restaurant recommendations: none
+Make restaurant reservation: none
+Provide information on upcoming stops: none
+Check the train schedule: find_train
+Find out if dining car is available: none
+Announce the next stop: none
+Provide train schedule and next stop: find_train
+Inquire amenities and directions: none
+Offer help with train schedule: find_train
+Inform passenger of next stop: none
+Arrange travel plans efficiently: none
+Guide through purchase process: book_hotel
+Inform guest about hotel facilities: find_hotel
+Update passenger on restroom locations: none
+Inquire_train_services: find_train
+Confirm passenger's reservation: book_train
+Check into room: book_hotel
+Give directions to platform: none
+Providing the information about the next stop: none
+Check the arrival time: none
+Inform about dining car availability: none
+Help with train schedule and restroom locations: find_train
+Inform passengers of any delays: none
+Provide directions to the restroom: none
+Inform about the location of restrooms on the train: find_train
+Provide dining recommendations in the area: none
+Concluding the conversation: none
+Inquire about dining services: none
+Interested in traveling to the next station: find_train
+Inquire about arrival time at station: find_train
+Provide the journey duration: none
+Upgrade room: none
+collect tickets: none
+Check passengers for valid tickets: none
+Provide discount information: none
+Offer help with directions: none
+Confirm booking: book_hotel
+Provide information on train transfer: find_train
+Inquire about amenities and attractions: find_hotel
+Provide information on dining options on the train: none
+Provide directions to nearby attractions: none
+Inform about the available food options on the train: none
+Find train schedule and layover duration: find_train
+Inform about any changes in schedule: none
+Confirm the train destination: find_train
+Find seat: none
+Providing detailed information and transportation options: none
+Confirm room amenities: none
+Ask for seating availability: none
+Inform about bike policy: none
+Upsell room upgrade: book_hotel
+checking the train schedule: find_train
+Confirm passenger's ticket: none
+Provide spa services information: none
+Check the train schedule for connecting trains: find_train
+Provide information about nearby restaurants: none
+Provide WiFi sign in information: none
+Explain the Wi-Fi availability on the train: find_train
+Inform guest about hotel amenities: find_hotel
+Provide departure information: find_train
+Provide information about hotel amenities: find_hotel
+Discuss room availability: find_hotel
+Inform the arrival time at the final destination: none
+Inquire about the next stop: none
+Make reservation: book_hotel
+Ask for information about the train schedule: find_train
+Ask for taxi company recommendation: none
+checking in the guest: none
+Confirm reservation: book_hotel
+Confirm the schedule for the next train: find_train
+Find out the arrival time at the next station and ask about connecting trains: find_train
+Informing about the arrival time at the destination station: find_train
+Ask about train amenities: find_train
+Confirm seat availability: none
+Check-in at the hotel: find_hotel
+Confirm dining car availability and location: none
+Inform about the dining car availability: none
+Inquire about next stop: none
+Inquire about train service: find_train
+Inform the passenger about the next station: none
+Provide travel and luggage storage details: none
+Inform about arrival time before train departure: book_train
+Find out the schedule for the next train departure: find_train
+Confirm order and provide details: book_hotel
+Inquire about arrival time before departure: find_train
+done: none
+Provide departure platform: find_train
+Inquire about train stops: find_train
+Provide information on nearby amenities: none
+Inform about station amenities: none
+Seeking transportation and dining options: none
+provide information on pre-departure requirements: none
+Provide final destination: none
+Offering further assistance: none
+Inquire about seat preference: none
+Get information about train route: find_train
+provide information on next stop: none
+Complete inquiry: none
+Book a seat: book_train
+Provide pre-departure information: none
+Check-in to hotel room: book_hotel
+Provide train delay and seat information: none
+Check in to the hotel room: book_hotel
+Informing passengers of the next stop: none
+Inquire about local attractions nearby: none
+Confirm seating arrangement: none
+Inquire about meal inclusion: none
+Inquire about layover activity feasibility: none
+Offer further assistance: none
+Conductor's duties and responsibilities: none
+Ask about next station: find_train
+Clarify any confusion about the schedule: none
+Inquire about effect on connecting services: none
+Inform the passenger about the next stop: none
+Check the train schedule for arrivals: find_train
+Confirm no train switch necessary: none
+Inquire dining car hours: none
+Confirm the arrival time of the train: find_train
+Check passenger ticket: none
+Resolve customer complaint: none
+Check the train schedule for arrival time: find_train
+Provide information about Wi-Fi availability: none
+Assist with luggage storage: none
+Inquire about dining car reservation requirement: none
+Inquire about dining car reservation: none
+Purchase ticket: none
+Inform about next stop: none
+Upsell room upgrades: book_hotel
+Ask about the train's arrival time: find_train
+Assist passengers with queries: none
+Inquire about dining car menu: none
+Inform about the dining car hours: none
+Sell ticket to passenger: none
+Ask about meal options: none
+Ask for information about delays: none
+Purchase tickets: none
+Ask for train timings: find_train
+Confirm ticket and travel details: book_train
+Confirm the next station stop: find_train
+Offer information about hotel facilities: find_hotel
+Check-in for reservation: book_hotel
+providing_local_amenities: none
+Inquire about signup process: none
+Inquire about services and attractions: none
+Inform the passenger about upcoming stops: none
+Ensure passengers follow safety protocols: none
+Inquire about Wi-Fi: none
+Provide menu details: none
+Obtain train departure platform: find_train
+Provide the departure time of the train: find_train
+Inquire about train services: find_train
+Place an order: none
+Get recommendations for nearby restaurants: none
+Inquire amenities: none
+Inform about amenities: find_hotel
+End_conversation: none
+Inform about train schedule and delays: find_train
+Provide ticket purchasing information: book_train
+Ask for discounts on round-trip tickets: book_train
+informing about any delays or changes in schedule: none
+Ensure passengers have valid tickets: book_train
+Confirm guest reservation details: book_hotel
+Provide information about the next station: none
+Seeking detailed information and transportation: none
+Inform next stop: none
+Get a room with a view: find_hotel
+Offering recommendations for local attractions: find_hotel
+Inquire about bike policy: none
+ProvideInformation: none
+Ask about platform number: find_train
+Complete check-in process: none
+Find out the arrival time at the final destination: none
+inform luggage location: none
+Confirm the full schedule: none
+Check-in to the hotel: find_hotel
+Ask for travel recommendations: none
+Provide information about arrival time: none
+Give directions to the next stop: none
+Check-in: find_hotel
+Provide information on train change: find_train
+Find out about connecting trains: find_train
+Inquire about services: none
+Book a room: book_hotel
+Provide information on train stops: find_train
+Inform about dining car location: none
+Ask about available amenities: find_hotel
+Inform about the location of the nearest restroom: none
+Placing an order: none
+Assist with ticket purchase: book_train
+Provide train amenities: find_train
+Inquire about dining car location: none
+Announce the upcoming station stop: find_train
+Informing about the next stop: none
+Inform about delay duration: none
+Provide information about amenities: find_hotel
+provide_information: none
+Arrange for extra pillows: none
+Request confirmation email: none
+Check the passenger's ticket: none
+Purchase a ticket for the next destination: book_train
+Find out train amenities: find_train
+Inform about departure time and luggage storage options: find_train
+Provide information on special tours, events, and breakfast options: none
+Know breakfast options: find_hotel
+Ensure customer satisfaction: none
+Sell train tickets: book_train
+Inquire about spa services: none
+Complete interaction: none
+Ask for recommendations on nearby restaurants: none
+Check if a train change is necessary: find_train
+Inform dining car availability: none
+Provide information on the next station arrival time and inform about connecting trains: find_train
+Seek alternative routes: none
+Find out the next train schedule: find_train
+Inquire about specific attraction: none
+Check-in smoothly: find_hotel
+Inform about train change requirement: find_train
+Confirm ticket: none
+Inform about stop duration: none
+Provide train schedule details: find_train
+Complete current inquiry: none
+Confirm booking and provide dining options: book_hotel
+Inquire about departure platform: find_train
+Provide information about upcoming stops: none
+Provide platform number: none
+Find out the arrival time: none
+Provide train service information: find_train
+Check into room smoothly: book_hotel
+Asking for dining car menu: none
+Answer any questions about the schedule: none
+Checking in to the hotel: find_hotel
+Book spa and inquire dining options: none
+Assist with anything else: none
+Get information on hotel amenities: find_hotel
+Inquire about journey details: none
+Purchase a ticket for the train ride: book_train
+Provide wifi connectivity instructions: none
+Ask about nearby restaurants: none
+Inquire about delay duration: none
+Ask for train route to a specific destination: find_train
+Purchase a new ticket: book_train
+Room amenities inquiry: find_hotel
+Show valid ticket to inspector: none
+explain any delays: none
+Inform about schedule: none
+Find out the train schedule: find_train
+Find out travel information: find_hotel
+Find out the platform number for the train: find_train
+Find out the fare to final destination: none
+Inquire about food purchase options: none
+Inform about the next stop and delays: none
+Ask about onboard storage cost: none
+Provide information on the train schedule: find_train
+Inform passengers of potential delays: none
+End conversation with well wishes and offer for further assistance: none
+Know if there's a dining car available on this train: find_train
+Get information about local attractions: none
+Provide reservation information: book_hotel
+Ask about train schedule: find_train
+Find out time until next stop: none
+Inform about train change: find_train
+Find out dining car reservation policy: none
+Check in to room: none
+Find out the time until the next train stop: find_train
+Up-sell room upgrades: book_hotel
+Find out about delays: find_train
+Ask about nearby attractions: none
+Provide information: none
+Inform about hotel services: find_hotel
+Inform about delay resolution time: none
+Inquire about train transfer: find_train
+Check the schedule for return journey: find_train
+Find out the travel time to the next station: find_train
+Provide information about breakfast options: find_hotel
+Explain the reason for the delay: none
+Find out if train change is required: find_train
+Find out the next scheduled stop: find_train
+Assist passengers with schedule: none
+Offer information on hotel amenities: find_hotel
+Get information about nearby restaurants: none
+Buy a ticket: none
+providing_train_information: find_train
+obtain_information: none
+Inform about delays: find_train
+Provide WiFi password: none
+Provide train schedule and seat availability: find_train
+Resolve guest complaint: none
+Check ticket validity: none
+Confirm room reservation details: book_hotel
+Request directions: none
+Assist with seat relocation: none
+Provide the train schedule: find_train
+Assist with station stop information: none
+inquiring_train_services: find_train
+Request for room upgrade: find_hotel
+Inform about the next train stop: none
+Confirm no train change needed at the next stop: find_train
+Buy a ticket for the next train: book_train
+Request help with luggage: none
+Inquire about dining car payment options: none
+Suggest alternative routes: none
+Ask about the Wi-Fi availability on the train: find_train
+Check in to the room: none
+request assistance for luggage: none
+Complete guest check-in process: none
+Assist passenger with luggage: none
+Assist passenger with restroom location: none
+End Conversation: none
+Verify payment method: none
+finding out the train arrival time: find_train
+Find out train schedule information: find_train
+Inform the passenger of the next stop: none
+Provide information on journey time: none
+Upgrade room and inquire about attractions: none
+Offer compensation: none
+Check tickets of passengers: none
+Inform about restroom cleaning frequency: none
+Provide the train departure time: find_train
+Providing information about dining car: none
+Confirm passenger destination: none
+provide train arrival time: find_train
+End of conversation: none
+Inform about dining car reservation: none
+Process order and payment: none
+Find out departure time: none
+Provide information on train delays: find_train
+Ask for directions to the nearest restaurant: none
+End interaction: none
+Inform about reservation requirements: book_hotel
+Find interesting activities to do in the area: none
+Inquire about delay action: none
+Inquire about using the app to find the train schedule: find_train
+Find out if train stops at a specific location: find_train
+Provide information on room availability: find_hotel
+Ask for directions to the nearest station: find_train
+Find out the next train stop: find_train
+Ask about available food options: none
+Confirm no train change: none
+Provide recommendations for nearby restaurants: none
+Provide directions to a specific attraction: none
+Assist with luggage: none
+Collect room key: none
+Checking for available seats: none
+Provide local attractions information: none
+Get information about local area: none
+Provide train schedule information: find_train
+Offer upgrades or discounts: none
+Inquire about seat availability: none
+Give information about train delays: find_train
+Ask about local attractions: none
+Inform about any delays or schedule changes: none
+Ask for directions: none
+Offer final assistance and farewell: none
+Provide ticket counter location information: none
+Find out if a train switch is necessary: find_train
+Provide information about the duration to the final destination: none
+Place food order: none
+Book ticket for next train: book_train
+Inform about upcoming station stops: find_train
+ensuring the reservation details are correct: book_hotel
+Confirm assistance: none
+Explain food options on board: none
+Inform passengers about train schedule: find_train
+inquire about amenities: find_hotel
+Confirm order and provide Wi-Fi information: none
+Inquire about dining car operating hours: none
+Providing information on dining car availability: none
+Informing about dining car availability: none
+Confirm the platform for the next train: find_train
+Recommend nearby restaurants: none
+Provide location for luggage assistance: none
+Find out the departure time of the next train: find_train
+Assist in booking: book_hotel
+Get information about hotel facilities: find_hotel
+Train schedule and connections: find_train
+Find out journey duration: none
+Inform about arrival time before departure: book_train
+Upsell hotel services: book_hotel
+Provide information about the next stop: none
+Ask for directions to the bathroom: none
+Provide hotel amenities information: find_hotel
+Find out the time of arrival at next station: find_train
+Offer assistance: none
+Answer any questions about the train schedule: find_train
+Sell a ticket to the passenger: book_train
+Inform about restroom location: none
+Assist with train schedule: find_train
+Recommend nearby attractions: none
+Inform about train frequency to Springfield: find_train
+Find out stop duration: none
+Inform about any upcoming delays: find_train
+Confirm sending confirmation email and offer further assistance: none
+Provide room key: none
+Assist passengers with seat availability: find_train
+Inquire dining car availability: none
+Provide information on pre-departure requirements: none
+Ask for directions to the restrooms: none
+Assist passengers with ticket purchases: book_train
+Provide information on ticket options: none
+Inquire about facilities: none
+confirm the next stop: none
+Inform about schedule and delays: find_train
+Confirm the train schedule: find_train
+Check guest in and provide restaurant recommendations: none
+Provide information about delay frequency: none
+Inform about taxi frequency: none
+Find out the train departure time: find_train
+find out train schedule: find_train
+Confirm ticket validity: none
+Find out if a train change is necessary: find_train
+Provide information on connecting trains and station directions: find_train
+Provide arrival time advice: none
+Inform about the next stop and validate ticket: none
+Provide information about the train schedule: find_train
+Completing order: book_hotel
+Provide information about train schedule changes: find_train
+Inquire about room service: find_hotel
+Inform about available seats: none
+Confirm the train's next stop: none
+Provide breakfast info: none
+Get information about the train journey: find_train
+Close conversation: none
+Inquire about room upgrade: find_hotel
+Find out the return train schedule: find_train
+Ensure passenger comfort: none
+Asking about the train schedule: find_train
+Provide information about train amenities: find_train
+Request more details on attractions and confirm room amenities: find_hotel
+Provide information on the next train stop: find_train
+Information received: none
+Check-in successfully: none
+Confirm the departure time: none
+Close: none
+Inquire about stops before destination: find_train
+Inquire about station services: find_train
+Offer additional services or amenities: none
+Inform trip duration: none
+Ask about Wi-Fi availability: find_hotel
+Check the train schedule for departure time: find_train
+Direct the passenger to the restroom: none
+Inquire about special tours and events, and breakfast options: none
+Provide directions: none
+Inform how to access the dining car: find_train
+Ensure smooth boarding process: none
+Provide information about train stops: find_train
+Find out restroom cleaning frequency: none
+End conversation: none
+Check into their room: book_hotel
+seeking information: none
+Provide information on the next stop: none
+Inquire about journey duration: none
+Provide information on amenities and services: find_hotel
+Inform the passenger about the next train stop: find_train
+Check into hotel room: book_hotel
+Inquire about hotel amenities: find_hotel
+Inform about train schedule: find_train
+Provide stop duration: none
+Inquire about transportation options from the station: find_train
+Provide_information: none
+Inquire about train details: find_train
+Provide information on hotel facilities: find_hotel
+Address any concerns about the schedule: none
+Inquire about amenities on the train: find_train
+Find out information: none
+Clarify train change: find_train
+provide_train_info: find_train
+Inform the passenger about next stop: none
+find out departure time: find_train
+ask about delays: none
+sell ticket: none
+Provide train frequency information: find_train
+Inquire about ticket prices: none
+Offer special promotion: none
+Check into the hotel room: find_hotel
+Inquire about dining car availability: none
+Is there a dining car on this train?: find_train
+Verify reservation details: none
+Check into the room smoothly: book_hotel
+Thank you for your help.: none
+Receive compensation: none
+Inquire about station amenities: none
+Provide coffee shop location: none
+Inquire about local attractions: none
+Check into the room: book_hotel
+Provide platform arrival time: none
+Inform about the time until the next train stop: find_train
+Know about hotel facilities: find_hotel
+Check-in to Room: book_hotel
+Inform about upcoming stops: none
+Provide information on breakfast options: find_hotel
+Provide information on next station stops: none
+provide travel information: none
+Find out the train schedule for the day: find_train
+Inform about the hotel facilities: find_hotel
+Provide restaurant details: none
+Find out the arrival time at the next station: find_train
+provide information about amenities: find_hotel
+Explain the luggage policy: none
+Assist passengers with any inquiries: none
+Provide return train schedule: find_train
+Provide journey details: none
+check the train schedule: find_train
+Provide information on travel time to the next station: find_train
+Checking train schedule: find_train
+Check ticket: none
+Ask for information about nearby attractions: none
+Check ticket of the passenger: none
+Provide train services information: find_train
+provide information about the train schedule: find_train
+Inform about schedule changes: none
+Provide amenities details: none
+Purchase a ticket: book_train
+Check in to hotel room: book_hotel
+Ask about available amenities on the train: find_train
+Request for extra pillows: none
+Find train information: find_train
+Ask for directions to a specific attraction: none
+Confirm the next station: none
+Find out train schedule: find_train
+Provide Information: none
+Get restaurant and hotel amenities information: none
+Announce the upcoming stops: none
+Promote hotel services: find_hotel
+Confirm bookings and provide gym information: book_hotel
+Ensure passenger safety: none
+Looking to explore the city during the layover: find_hotel
+Verify ticket and inquire about travel details: none
+getting checked in quickly: find_hotel
+Inform about the Wi-Fi availability on the train: find_train
+Check-in and provide information: none
+Provide information on botanical gardens: none
+Offer further help and good wishes: none
+Provide detailed information on attractions and confirm additional room amenities: find_hotel
+Explain any delays in the schedule: none
+Inform about train journey: find_train
+Confirm next stop: none
+Ask about luggage storage: none
+Update the passenger about any delays: none
+Provide directions to the platform: none
+Assist guest with check-in process: book_hotel
+Inquire about train delay: find_train
+Provide directions and information: none
+Find out about train schedule: find_train
+Inform about the train schedule: find_train
+Confirm time until next stop: none
+Inform about dining services: none
+Ensure passengers know the schedule: none
+Provide information about delay notifications: none
+Get information about hotel services: find_hotel
+Provide information on train frequency: find_train
+Know about local attractions: none
+Get room key: none
+Asking about the train frequency to Riverside: find_train
+check train schedule: find_train
+Provide information on nearby attractions: none
+Get information about the next stop: none
+Inquire about restaurant details: none
+Validate ticket and offer app download assistance: none
+Verify the passenger's ticket: none
+Ticket purchased for this train: book_train
+Ask about the train's schedule: find_train
+Inquire about train transfer to Springfield: find_train
+Find out fare to destination: none
+Assist the passenger with any questions: none
+Provide information about delay: none
+Clarify any confusion about the arrival time: none
+Inquire about directions to restaurant: none
+Inquire about food options: none
+Inquire about ticket policy: none
+Check guest into room: book_hotel
+Assist the traveler with the schedule: none
+Provide dining options: none
+Confirm seat reservation: book_train
+Assist the passenger with the schedule: none
+Provide journey time information: none
+Get recommendations for attractions at next stop: none
+Find out next stop arrival time: none
+Ask about available seats: none
+Ask for directions to dining car: none
+Learn about nearby attractions: none
+Find out the next station stop: find_train
+Assist with check-in process: none
+Verify journey details: none
+Inquire about nearby restaurants: none
+Providing check-in information: none
+Offer further assistance and say goodbye: none
+Provide recommended arrival time: none
+Find out amenities: find_hotel
+Sell a ticket: none
+Ask about the delay: none
+Provide information on room amenities and nearby attractions: find_hotel
+Confirm the next train stop: find_train
+Offer room upgrade: book_hotel
+Inform about the journey duration: none
+Providing information on train frequency to Riverside: find_train
+Confirm layover activity feasibility: none
+Provide information about hotel facilities: find_hotel
+Find out when the next stop is: find_train
+Get information about the train amenities: find_train
+inquire about pre-departure requirements: none
+Check-in to the hotel room: book_hotel
+Book a ticket for a specific time: book_train
+Confirm seat preference and offer further assistance: book_train
+Receive information about hotel amenities: find_hotel
+Inquire about reservation requirements: book_hotel
+Provide directions to the bathroom: none
+Direct to the nearest restroom: none
+Inquire about delay impact: none
+Verify reservation: none
+Announce any delays or schedule changes: none
+Asking for assistance with luggage: none
+Inform about hotel amenities and nearby attractions: find_hotel
+Provide information about schedule changes: none
+Confirm travel details: none
+Seeking help and information: none
+Inquire about WiFi sign in: none
+Assist with travel: none
+Inform about any delays: none
+Inform about time until next station: find_train
+Provide ticket information: none
+Confirm the next stop: none
+Provide information on dining options: none
+Provide information about hotel services: find_hotel
+Inform about seat number: none
+Offering help with luggage: none
+Book train seat: book_train
+Provide information on train services: find_train
+Assist with any schedule changes: none
+Provide detailed information: none
+Assist passengers with seat assignments: none
+Inform no delays: none
+Assist passengers with questions: none
+Find out boarding procedure: none
+Provide alternative route options: none
+Inform about schedule change frequency: none
+Inquire about discounts: none
+Ask for directions to the restroom: none
+provide assistance for luggage: none
+Inquire about schedule change frequency: none
+Ask for seat availability: none
+Ask about seat availability: none
+Check guest in: none
+Assist passengers with their luggage: none
+Find out train details: find_train
+Inquire about wifi connectivity: none
+Find out Wi-Fi availability: none
+Provide ticket purchase information: book_train
+Check in smoothly: none
+provide train schedule information: find_train
+Know available amenities: find_hotel
+Inform about taxi company recommendation: none
+Inquire about pre-departure: none
+Inquire delay duration: none
+Show ticket: none
+Ask for the train schedule: find_train
+Provide dining car information: none
+Announcing the next train stop: find_train
+Address any customer complaints: none
+Check-in completed: none
+Get a comfortable room: find_hotel
+Inform about next station: none
+Inform about nearby restaurants: none
+Providing information on seat availability: find_train
+Provide journey information: none
+Ask about connecting trains: find_train
+Inform about dining car hours: none
+confirming the passenger's ticket: book_train
+Drop off luggage: none
+Check-in guest: find_hotel
+Inform about the hotel services: find_hotel
+Check-in the guest: none
+Find out the train's final destination: find_train
+Inform about the next stop: none
+Offer upgrade options: book_hotel
+Provide information on alternative internet access: none
+Confirm seat booking: book_train
+Finding out the departure time: find_train
+Give directions to the restroom: none
+Confirm passenger's destination: none
+Give directions to the platform: none
+None: none
+Promote hotel amenities: find_hotel
+Find coffee shop location: none
+Provide restaurant information: none
+Inquire about Hotel Amenities: find_hotel
+Ask about the nearest station: find_train
+Looking to travel to the next city: find_hotel
+Express gratitude and anticipation for the stay: find_hotel
+Find out delay resolution time: none
+Find out if a train change is needed at the next stop: find_train
+Ask for train schedule information: find_train
+Find out the duration to the final stop: none
+Ask about amenities on board: find_train
+Find out train frequency to Springfield: find_train
+Find out train information: find_train
+Provide journey duration: none
+Inform about available services: none
+Find out dining car availability: none
+Confirm reservation and ticket validity: book_train
+Check-in to the room: none
+Inform about direct train to Springfield: find_train
+Check the train schedule for the day: find_train
+Inquire about WiFi connectivity: none
+Provide information on next train stop: find_train
+Get assistance with any issues during the stay: find_hotel
+Providing information on train services: find_train
+Check guest into their room: book_hotel
+Find out the next station: find_train
+Buy a ticket for next station: book_train
+Provide booking confirmation: book_hotel
+Give information about train schedule: find_train
+Close Conversation: none
+Confirm booking and offer further assistance: book_hotel
+Provide train schedule: find_train
+Find out dining options near platform 4: none
+Inquire about dining car: none
+Offer additional services: none
+Provide updates on any delays: find_train
+Assist passengers with travel needs: none
+Request assistance for luggage: none
+Updating passengers on train delays: find_train
+Confirm booking and inform about services: book_hotel
+Inquire about alternative internet access: none
+Inform about facilities: none
+Inform about nearby attractions: none
+Seeking information: none
+Inquire about the train schedule: find_train
+Provide information about next stop: none
+Inquire about the luggage policy: none
+Inform about onboard storage cost: none
+Inform about local attractions: none
+Finding out the next stop: none
+Inform about ticket purchase options: book_train
+Find out the current train schedule: find_train
+Address any special requests: book_hotel
+Provide room keys: none
+Provide spa information: none
+Check-in a guest: none
+Ensure safety measures are followed: none
+Provide delay and connection information: none
+Provide information on delays: none
+Provide app usage instructions and offer further assistance: none
+Provide information on train switch: find_train
+Ask about train delays: find_train
+Inquire about local restaurants: none
+Inform passengers about delays: find_train
+Inform about breakfast options: find_hotel
+Finding out the next train stop: find_train
+Provide WiFi connectivity information: none
+Provide delay details and alternatives: none
+Assist the passenger with luggage storage: none
+Offer meal options: none
+Find out the schedule for the next train: find_train
+Give directions to the restrooms: none
+Ask for recommendations for dining in the area: none
+Check-in and explore upgrade options: none
+Provide travel time: none
+Provide gym information and offer further assistance: none
+Find out the departure time: find_train
+Confirm reservation details: book_hotel
+Inform about train delays: find_train
+Assist with the return journey schedule: none
+Provide information on amenities: find_hotel
+Checking the train schedule: find_train
+Confirm spa appointment booking: none
+Provide seat availability: none
+Looking to travel to next station: find_train
+Assist passenger: none
+Provide food options information: none
+Verify tickets: none
+Inform about the next scheduled stop: find_train
+Find out the train's next stop: find_train
+Inquire about train schedule: find_train
+Provide train information: find_train
+Inquire about food options on board: none
+Confirm train schedule: none
+Find out the journey duration: none
+Ask for the closest restroom: none
+Inform the passenger about amenities on the train: find_train
+Ask for information about the train amenities: find_train
+Share recommendations for attractions: none

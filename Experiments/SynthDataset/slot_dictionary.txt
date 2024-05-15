@@ -1,0 +1,964 @@
+Number of guests: bookpeople
+dining_car_hours: none
+compensation_details: none
+next_train_time: leaveat
+seating_options: none
+Laundry services: none
+fare: price
+connection_departure: departure
+availability: bookstay
+reservation_necessity: none
+Museum details: none
+breakfast_location: none
+Number of People: bookpeople
+purchase_ticket: none
+parking facility: parking
+Booking: bookpeople
+request_transportation_info: none
+Guest Name: name
+train_number: trainid
+spa: type
+need_local_recommendations: none
+Entry fees: price
+dining car service time: duration
+ticket confirmation: none
+route: none
+assistance location: none
+Room availability: bookstay
+early check-in: none
+train schedule: trainid
+Reservation name: name
+Spa treatment pricing: price
+switch_trains: trainid
+Taxi arrangement: none
+destination city: destination
+room_availability: bookstay
+Visiting hours: none
+dining_car_menu_item: none
+Wi-Fi availability: internet
+last_train: leaveat
+number_of_guests: bookpeople
+hotel services: none
+Room availability and rates: bookstay
+Museum visit: bookday
+ticket_purchase_location: none
+spa appointment availability: bookday
+dining_car_menu_item_description: none
+spa_appointment_time: none
+train transfer: departure
+booking reference: ref
+Identification: name
+next_train_stop: trainid
+dining car reservation: bookpeople
+detail_museum: type
+last_train_departure: leaveat
+reservation recommendation: bookstay
+ticket_type: none
+Train schedule and ticket regulations: trainid
+layover_activity: none
+journey duration: duration
+gym_opening_hours: none
+Hotel occupancy rate: none
+room upgrade: none
+next stop: destination
+Restaurant preferences: pricerange
+pool_type: none
+address: location
+entry fee: price
+google_play: none
+room reservation details: bookstay
+luggage_policy: none
+stay: bookstay
+preferred departure time: leaveat
+Questions about hotel services: parking
+gym_details: none
+second option departure time: leaveat
+Hotel facilities and services: parking
+interests: none
+Room availability and hotel services: bookstay
+carriage: parking
+pool hours: none
+Availability of room upgrades: bookstay
+book_seat: none
+opening_hours: none
+seat booking confirmation: none
+room_key: none
+total cost: price
+information: none
+breakfast_options: none
+frequency_of_schedule_changes: none
+Wi-Fi_sign_in: internet
+train_schedule: trainid
+facility_inquiry: none
+room service order: none
+platform number: trainid
+assistance for luggage: parking
+gym: none
+Wi-Fi_connectivity: internet
+attraction_inquiry: none
+payment method: none
+Personal preferences: none
+guest_name: name
+wifi_access: internet
+Arrival time and room preferences: arriveby
+restaurant_hours: none
+breakfast inclusion: none
+connecting train departure: departure
+book: bookstay
+feature: none
+interest: none
+swimming pool type: none
+parks: parking
+available_services: none
+Opening hours: none
+request_wifi_password: internet
+seat_reservation: none
+Room upgrade choice: none
+transaction_status: none
+ticket validity: duration
+reservation name: bookpeople
+key: name
+time of travel: leaveat
+dining_car_availability: none
+restaurant hours: none
+change_trains: trainid
+gym location: none
+spa_appointment_date: none
+compensation_choice: none
+Desired room preferences: type
+Gym hours: none
+seat_preference: none
+seat reservation status: none
+Booking name: bookpeople
+estimated_arrival: arriveby
+frequency_of_delays: none
+Gym details: none
+Check-out time: leaveat
+ticket_purchase: none
+room availability: bookstay
+last_train_time: leaveat
+Dietary preferences: none
+train_switch: trainid
+Ticket destination: destination
+restroom_access: none
+arrival_time_next_station: arriveby
+room_amenities: none
+next train: trainid
+luggage_weight: none
+breakfast time: none
+issue_description: none
+Reservation status: bookpeople
+Dietary restrictions: none
+food_options: none
+train_frequency_off_peak: none
+Costs involved: pricerange
+Room availability and reservation details: bookstay
+Personal identification and credit card: none
+destination_station: destination
+train_schedule_status: none
+Transportation: arrivalby
+last train: trainid
+Local attractions: area
+Nearby seafood restaurant details: none
+directions to nearest station: departure
+detail_park: parking
+stop_time: bookstay
+Cost: pricerange
+dining_car_menu: none
+ticket delivery method: none
+Wi-Fi password: internet
+seating availability: none
+restroom location: none
+check-in date: bookday
+Inform about hotel amenities: parking
+Preference for attractions: none
+room_upgrade: none
+restaurant_recommendation: pricerange
+Check-in requirements: bookstay
+Room preference: type
+seat_booking_requirement: bookpeople
+next_station_stop: departure
+ticket_confirmation_code: ref
+delay duration: duration
+upcoming train stops: trainid
+facility_hours: none
+Time of arrival: arriveby
+stops: none
+schedule_changes: none
+late_check_out_policy: none
+Distance to local attractions: none
+book a table for two at The Gourmet Garden for tonight: bookday
+need_to_switch_trains: trainid
+Spa appointment time: bookday
+Wi-Fi network: internet
+ticket: none
+luggage_storage: none
+time_of_arrival: arriveby
+room_service: none
+More information: none
+breakfast_included: none
+dining_car_reservation_required: none
+date of travel: day
+Sightseeing preferences: none
+compensation_applied: none
+nearby attractions: area
+access_dining_car: none
+Wi-Fi_availability: internet
+book standard class ticket: trainid
+schedule_shuttle: none
+Room Type: type
+spa hours: none
+special_requests: none
+origin: departure
+travel_plans: departure
+Spa treatments: type
+ticket_price_round_trip: price
+photo_id: none
+number of people: bookpeople
+train_delay: none
+facilities: none
+additional_assistance: none
+swimming pool hours: none
+Room readiness: none
+key_card: none
+station amenities: parking
+gym_hours: none
+Ticket purchased for destination: destination
+Upgrade options: type
+discount: price
+Botanical gardens distance: none
+first option arrival time: arriveby
+connecting_train_times: none
+arrange tickets: none
+dining car location: none
+menu_item_sides: pricerange
+wifi_included: internet
+connection_affect: none
+Payment method: none
+gardens_entry: none
+seat availability: none
+room_service_menu: none
+Directions: address
+arrival_time_before_departure: arriveby
+Local restaurant recommendation: type
+goal: name
+assistance: none
+payment_method: none
+boarding_time: leaveat
+Questions about hotel amenities: parking
+cost: price
+beverages_available: none
+preferred_departure_time: leaveat
+restroom_cleaning_frequency: none
+Special packages: type
+platform_change: none
+special promotion: none
+alternative routes: none
+confirmation email: none
+connecting_trains: trainid
+final destination arrival time: arriveby
+book_ride: none
+delay: none
+status: none
+Reservation details for the guest: bookpeople
+Cuisine Type: type
+Wellness center hours: none
+Available room upgrades: none
+luggage_assistance: none
+departure station: departure
+next station stop: trainid
+departure_station: departure
+onboard_services: none
+train_facilities: none
+room key: none
+parking included in room rate: parking
+room upgrade inquiry: none
+Spa details: none
+Booking reference: ref
+reason_for_delay: none
+Pool opening hours: none
+breakfast_timing: none
+opening hours: none
+room_number: none
+restaurant preference: type
+meeting rooms: type
+wifi_connectivity: internet
+wifi_sign_in_requirement: internet
+recommended arrival time: arriveby
+final_destination: destination
+Room upgrade fee: price
+specific_attraction_interest: none
+Room preferences: type
+train status: trainid
+restaurant_recommendations: pricerange
+additional_cost: price
+arrival_time_next_stop: arriveby
+Check-in procedure: none
+dining_car_operating_hours: none
+Breakfast options: none
+check-in time: leaveat
+sufficient_connection_time: duration
+power outlets: none
+destination: none
+next_station: departure
+Interest in nearby attractions: area
+Price: pricerange
+request_assist_luggage: none
+dining recommendations: none
+purpose: none
+request_more_details_park: parking
+Number of guests staying: bookstay
+area_attractions_details: none
+frequency: none
+has_cash: none
+Room type: type
+Reservation confirmation number: ref
+hotel service interest: none
+menu: type
+departure time: leaveat
+specific_amenities: none
+seating_preference: none
+breakfast option: none
+Dietary Preference: none
+Interest in directions to central park: none
+menu_details: none
+Botanical gardens exhibit: type
+Check-in documents: none
+seating_preferences: none
+ticket price: price
+dining_options: pricerange
+next_stop_arrival_time: arriveby
+Check-in procedures: bookstay
+Make reservation: bookpeople
+nearby restaurants: pricerange
+room upgrade price: price
+seat confirmation: none
+museum_entry_fee: price
+reservation_seat: bookstay
+guided tours: type
+Restaurant address: address
+discounts_for_seniors: none
+Arrival time: arriveby
+car_number: none
+Room availability and pricing: bookstay
+room type: type
+dress code: none
+operating hours: none
+Restaurant interest: type
+reservation date: bookday
+ID: trainid
+more_info: none
+checkout_time: leaveat
+Breakfast timings: none
+schedule_delays: none
+reservation_required: bookstay
+book table: bookday
+schedule_confirmation: bookday
+boarding_side: none
+room status: none
+goal_assist_luggage: none
+new_estimated_arrival_time: arriveby
+Fitness center hours: none
+distance: none
+ticket purchase: none
+room_upgrade_price: price
+breakfast hours: none
+local_attractions: none
+second option arrival time: arriveby
+room upgrade benefits: none
+restaurant: pricerange
+local attractions inquiry: area
+room location: area
+number of nights: bookstay
+transportation: none
+Distance: none
+wifi_password: none
+gym_requirements: none
+Guest's name: name
+Availability of upgraded rooms: none
+stopover_duration: duration
+meal options: none
+Booking details: bookpeople
+current_stop: departure
+arrival time: arriveby
+Preference for room type: type
+pool: none
+room_status: none
+reservation: bookstay
+Room number: none
+frequency_off_peak: none
+restaurant recommendations: type
+attraction_details: none
+Room upgrade prices: price
+delay_info: none
+platform_arrival_time: arriveby
+Luggage handling: none
+room_upgrade_options: none
+solution: none
+restaurant distance: none
+seating_arrangement: none
+Room availability and details: bookstay
+Personal details: none
+arrival_advice: arriveby
+Preferred room type: type
+Room upgrade: none
+current_route: none
+Availability of room types: type
+stop_duration: duration
+detailed_schedule: bookday
+train_time: leaveat
+notification_option: none
+historical_sites: area
+additional_amenities: none
+train_change: trainid
+Interested in: type
+ticket_validation: none
+purchase_confirmation: bookstay
+train delays: none
+customer_name: name
+breakfast options: none
+request_restaurant_recommendation: type
+issue_experience: none
+Amenities offered: type
+restaurant_type: type
+maintenance_work: none
+Name: name
+transfer_required: none
+change trains: none
+extra_available_seats: none
+accept_upgrade: none
+booking: bookpeople
+trip_duration: duration
+first option departure time: leaveat
+specific amenity inquiry: parking
+dining_car_presence: none
+book_ticket: none
+cuisine: type
+business center: none
+journey time: duration
+pool_availability: none
+luggage location: none
+floor: pricerange
+guest_identity: none
+next_stop_location: destination
+Date: bookday
+full_name: name
+booking time: bookday
+reservation_confirmation: bookday
+Cuisine preference: none
+wifi_network: internet
+Restaurant reservation: bookday
+Booking reference number: ref
+dining car: type
+room view: none
+wifi_sign_in: internet
+time_until_station: duration
+guest name: name
+spa_services: none
+breakfast_timings: none
+swimming pool booking: none
+Spa session: duration
+arrival_recommendation: arriveby
+room_service_options: none
+directions: none
+taxi_frequency: none
+room_preference: type
+restaurant details: type
+first_train_time: leaveat
+more details: type
+local attractions: area
+cafe_near_platform: none
+dining_car_directions: none
+request: none
+gym facilities: none
+booking_amenities: none
+delays: none
+a la carte menu: pricerange
+satisfaction: none
+travel time: duration
+amenities: none
+directions to platform: none
+gardens_hours: none
+First time traveling on this route: departure
+final_destination_arrival_time: leaveat
+next station: trainid
+number_of_tickets: none
+Train schedule: trainid
+Reservation confirmation: bookday
+hotel facilities: parking
+restaurant type: type
+additional_services: none
+Alternative route via Leicester: none
+number_of_people: bookpeople
+dinner reservation time: leaveat
+pre-order: none
+schedule_frequency: none
+provide_directions: none
+nearby_restaurants: area
+gym hours: none
+Wi-Fi access: internet
+restroom_location: none
+request_info_attractions: none
+Cause of delay: none
+delay_duration: duration
+Hotel room availability: bookstay
+booking confirmation: bookday
+Arrival time and room preference: arriveby
+Reservation details: bookstay
+swimming pool: none
+Booking confirmation: bookday
+current_ticket_validity: none
+Destination: none
+Available rooms and amenities: type
+dining car offerings: none
+schedule: none
+train change: none
+Available rooms: none
+length_of_stay: bookstay
+special_events: none
+area_attractions: area
+Restaurant Name: name
+purchase_snacks: none
+delay_resolution_time: duration
+credit_card: none
+seat_availability: none
+confirmation_number: ref
+reserve_seat: bookstay
+minibar: none
+ticket_validity: none
+attraction_type: type
+layover_activity_feasibility: none
+Bookings to proceed: bookpeople
+dining_car_reservation_needed: none
+departure: none
+Chosen attraction: name
+pool_hours: none
+train_transfer: trainid
+booking_status: bookpeople
+dining_services: none
+guest_interest: type
+journey_time: duration
+next station stops: trainid
+discount_offer: none
+restaurant name: name
+spa package: type
+ticket counter location: address
+Desired length of stay: duration
+restaurant_details: pricerange
+operation_hours_inquiry: none
+Nearby restaurants: pricerange
+additional_item: none
+amenity_inquiry: none
+Breakfast time: none
+Breakfast location: none
+connecting_train_to_Birmingham: none
+Seat number: none
+discounts: none
+Book deluxe suite: bookstay
+spa_availability: none
+length of stay: bookstay
+specific_restaurant: type
+time_until_next: duration
+WiFi availability: internet
+time: leaveat
+schedule_of_upcoming_stops: none
+next_stops: none
+restaurant_car_reservation_method: bookstay
+book ticket: none
+departure city: none
+Directions to attractions: none
+bed type: type
+purchase options: none
+Luggage items: none
+check_in: bookday
+restaurants: pricerange
+book seat: none
+breakfast_hours: none
+delay_advice: none
+reservation_dining_car: bookday
+confirm: none
+price: pricerange
+room_keys: none
+fitness center hours: none
+Time: bookday
+seat_finding: none
+gym opening hours: none
+order_ready_time: bookday
+Guest reservation details: bookpeople
+receipt: none
+wifi_availability: internet
+advice: none
+location_restroom: area
+Room pricing: pricerange
+number of tickets: none
+departure_area: area
+upgrade_price: price
+dining_car_offerings: none
+Park details: parking
+Current location and next stop: departure
+Decision: type
+time_until_next_stop: duration
+Personal identification and payment method: none
+return_schedule: bookday
+train frequency: none
+Travel plans: destination
+total_cost: price
+directions_to_taxi_stand: none
+Key card: none
+confirm_booking: bookday
+time until next station: duration
+travel_time: duration
+check-out date: bookstay
+directions_to_seats: none
+breakfast_info: none
+reservation at restaurant: bookpeople
+ticket type: none
+Room availability for check-in: bookday
+arrange_tickets: none
+confirmation number: ref
+book_time: bookday
+dietary_restrictions: none
+Guest's reservation details: bookstay
+spa services: none
+Entry charge: price
+museum_hours: none
+ticket_class: none
+meal_inquiry: none
+current_location_tracking: none
+Arrange tickets: bookday
+Length of stay: bookstay
+ticket_recheck: none
+number of nights booked: bookstay
+breakfast time start: none
+Entry fee: price
+Gym information: type
+luggage_location: none
+ticket_price: price
+second_train_time: leaveat
+Early check-in: bookstay
+breakfast time end: none
+nearby_attractions: area
+reservation requirement: bookpeople
+Preferred activities: none
+reservation confirmation number: ref
+local attraction: area
+Carrying luggage: parking
+alternative_internet_access: none
+menu_item_options: none
+baggage_policy: none
+arrival_time: arriveby
+amenities_wifi: internet
+Local attractions interest: area
+Gym availability: none
+complimentary breakfast: pricerange
+future_stops_arrival_updates: arriveby
+next station arrival time: arriveby
+dining_car_reservation_requirement: bookstay
+Dining recommendations near central park: area
+Directions to central park: destination
+discount eligibility: none
+Room availability and hotel facilities: bookstay
+service_availability: none
+service_inquiry: none
+taxi_company_recommendation: none
+reservation_requirement_for_Birmingham_train: none
+number_of_nights: bookstay
+snack_options: none
+next_stop_arrival: arriveby
+extra_fee: price
+order_preparation_time: duration
+Current train schedule: trainid
+Transportation arrangement: departure
+arrival_time_pre_departure: arriveby
+reservation dates: bookday
+stay_duration: duration
+journey_duration: duration
+schedule_adjustment: none
+nearest station: trainid
+date: bookday
+confirm_assist_luggage: none
+timetable information: trainid
+need_amenities_info: parking
+compensation_offer: none
+Wi-Fi limit: internet
+Hotel amenities: parking
+Additional information requirement: none
+spa_preferences: none
+Dietary Options: none
+availability_dining_car: none
+train_delays: none
+seating_class: none
+hotel_facilities: none
+hotel_amenities: none
+key card: none
+train_frequency: none
+Availability of rooms: bookstay
+spa appointment: none
+transportation_bus: departure
+offer: pricerange
+check_out_date: bookstay
+Amenities inquiry: none
+reservation confirmed: bookpeople
+Cultural sites: area
+availability_food_drinks: none
+Special amenities: parking
+snack_bar_hours: none
+Reservation details for guest: bookstay
+seat number: none
+availability_food: none
+departure date: bookday
+restaurant_distance: none
+operation_hours: none
+coffee_shop_location: address
+early check-in availability: none
+room_preferences: type
+current_reservation_amenities: none
+Hotel facilities: parking
+arrival time before departure: leaveat
+dinner reservation number of people: bookpeople
+connecting_trains_schedule: trainid
+fare_prices: price
+book_spa: none
+vegetarian_options: none
+Spa appointment: bookday
+train departure time: leaveat
+hiking_trails_details: none
+next_stop_directions: none
+info_museum: type
+discounts_for_children: none
+time_to_next_station: duration
+seat_options: none
+Desired room type: type
+next_train: trainid
+breakfast_time: none
+check_in_date: bookday
+further assistance: none
+inform: pricerange
+detailed_information: none
+info_park: parking
+More info: type
+dining car reservation policy: none
+Restaurant recommendations: type
+train_times: leaveat
+shuttle_service: none
+meal_hours: none
+request_more_details_museum: none
+dining_car_location: none
+duration of stay: bookstay
+inquire_delays: none
+platform: none
+next_station_arrival_time: none
+ticket_format: none
+train_arrival_time: arriveby
+ticket_price_one_way: price
+following_stops: trainid
+departure_times: leaveat
+Room availability status: bookstay
+reservation_number: ref
+menu_recommendation: none
+electronic ticket: none
+Nearby attractions: area
+ticket_issued: none
+Luggage assistance: parking
+specific restaurant: name
+alternative_routes: none
+directions_to_station: departure
+delayed_arrival_time: arriveby
+breakfast_type: none
+restaurant_cuisine: type
+restaurant preferences: pricerange
+reservation_name: name
+return_journey: departure
+layover_duration: duration
+Restaurant recommendation: type
+current_location: area
+restaurant_car_presence: parking
+breakfast timings: none
+Travel itinerary: destination
+spa treatment type: none
+type_meals_available: type
+arrival_time_final_destination: arrival_time_final_destination: arriveby
+Spa services offered: none
+restaurant_car_reservation: bookday
+Recommendations: type
+room number: none
+Reservation: bookpeople
+snack_availability: none
+platform_number_for_Birmingham_train: none
+app_store: none
+Restaurant preference: type
+ticket_status: none
+acknowledgement: none
+arrival_time_recommendation: arriveby
+ticket_check: none
+available_seating: none
+departure platform: trainid
+gym_availability: none
+spa package booking: bookstay
+Room availability and key card details: none
+Delay duration: duration
+Available services: parking
+Alternative route via Coventry: departure
+maintenance_duration: duration
+room_view: none
+coach: type
+Room floor: none
+transaction status: none
+wifi_password_requirement: none
+hotel amenities: parking
+room_type: type
+reservation_details: bookpeople
+specific time: leaveat
+room service menu: none
+total_travel_time: duration
+Interest in spa details: none
+WiFi access method: internet
+ticket cost: price
+room preference: type
+Gym facilities: none
+spa appointment confirmation: bookday
+ticket purchase location: none
+selected option departure time: leaveat
+seat_reservation_status: none
+breakfast_option: none
+reservation number: ref
+following_stops_times: none
+name: name
+room_location: area
+luggage storage: none
+train_stop_frequency: none
+train_id: trainid
+meal preference: none
+on_time_performance: none
+Preferences: pricerange
+dining car hours: none
+Amenities: none
+operating_hours: none
+arrival_time_destination: arriveby
+delay_information: none
+next train time: leaveat
+WiFi cost: internet
+restaurant_name: name
+specific amenities: none
+outdoor_activities: none
+available_seats: none
+preferred time: leaveat
+next_stop: departure
+wifi_info: internet
+wifi_connectivity_instructions: internet
+Number of guests staying in the room: bookstay
+spa_details: none
+check_in_time: leaveat
+Restaurant reservation details: bookpeople
+menu_item_price: price
+booking_time: bookday
+food options: type
+operation_time: none
+Hotel services: none
+Wi-Fi connection instructions: internet
+seat: none
+Wi-Fi_access_method: internet
+spa details: none
+Wi-Fi cost: internet
+confirm_taxi_booking: none
+departure_time: leaveat
+elevator location: none
+Available room upgrades and amenities: type
+ticket number: ref
+travel date: day
+spa treatments: type
+Duration of stay: bookstay
+WiFi_availability: internet
+Name and contact details: phone
+order_confirmation: bookday
+specific_amenity_inquiry: none
+offer_upgrade: none
+assistance_offer: none
+ticket format: none
+booking status: bookpeople
+on_board_services: none
+final destination: destination
+Dining preferences: none
+Total cost: price
+Special exhibits: type
+Familiar with the route: departure
+luggage_quantity: none
+Current location of the train: arriveby
+dining car availability: none
+dining_car: none
+total_price: price
+dining_car_reservation_method: none
+Number of people in the guest's party: bookpeople
+service: none
+check-out time: leaveat
+discounted price: price
+Stay duration: duration
+photo ID: none
+Wi-Fi: internet
+Room service: none
+third_train_time: leaveat
+Interest in dining options near central park: area
+location_dining_car: none
+directions_to_dining_car: none
+book_service: bookstay
+Gym opening hours: none
+WiFi password: none
+Room availability and amenities: bookstay
+directions to dining car: none
+reservation status: bookstay
+Reservation details and preferences: bookpeople
+entry_fee: price
+transportation_taxi_offer: arriveby
+confirmation: none
+seat_number: none
+breakfast preference: none
+Location: area
+Room availability and check-in procedures: bookday
+tickets: none
+room service: none
+Room rates: price
+In-house restaurant details: none
+Booking requirement: bookpeople
+attractions: none
+train time: leaveat
+location: area
+reservation_status: none
+Hotel policies and services: none
+confirmation_status: none
+upgrade offer: none
+dining_car_reservation: bookstay
+reserved_seat: none
+Room reservation details: bookstay
+schedule_change: none
+platform_number: none
+floor_number: none
+gym_info: none
+train_frequency_peak: none
+luggage assistance: parking
+goal_provide_info: none
+seat_relocation: none
+arrival_times: arriveby
+details: none
+ticket requirement: none
+Interest in amenities: parking
+travel_date: day
+room amenities: none
+Wi-Fi_instructions: internet
+Room upgrades: none
+Restaurant details: type
+ticket_requirement: none
+Has cash to buy ticket: none
+next_transfer_point: departure
+reservation_requirement: bookstay
+reservation time: bookstay
+Fitness center booking: bookstay
+ticket_prices: price
+next_train_transfers: trainid
+local_restaurants: pricerange
+next_stop_time: leaveat
+ticket_number_entry: none
+bus frequency: none
+frequency_peak: none
+check-in completion: bookday
+reservation_date: bookday
+reservation details: bookpeople
