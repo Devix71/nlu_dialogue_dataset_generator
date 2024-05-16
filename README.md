@@ -1,20 +1,12 @@
 ## Table of Contents
 - [Description and Purpose](#description-and-purpose)
 - [Requirements](#requirements)
-  - [Auxiliary](#auxiliary)
-  - [Python Libraries](#python-libraries)
 - [How to Run](#how-to-run)
-  - [Command Line Arguments](#command-line-arguments)
 - [Example Usage](#example-usage)
-  - [Using a YAML Configuration File](#using-a-yaml-configuration-file)
-  - [Using a List of Domains](#using-a-list-of-domains)
 - [YAML Configuration File](#yaml-configuration-file)
-  - [Example YAML File](#example-yaml-file)
-  - [Supported Domains](#supported-domains)
 - [Error Handling](#error-handling)
 - [Output](#output)
 - [Experiments](#experiments)
-  - [Requirements](#requirements-1)
 - [Synthetic-Trained Models](#synthetic-trained-models)
 - [MultiWoZ-Trained Models and A/B Testing](#multiwoz-trained-models-and-ab-testing)
 
@@ -28,8 +20,8 @@ This repository provides a script to generate synthetic dialogue datasets using 
 - Python 3.10+
 - valid OpenAI API key
 ### Python Libraries
-- `pyyaml`
-- `openai`
+- `pyyaml 6.0.1`
+- `openai 1.9.0`
 
 ## How to Run
 The `main.py` script can be ran from any CLI terminal.
@@ -83,14 +75,13 @@ Generated dialogues are saved in JSON format in the `IntermediaryFiles` director
 ### Requirements 
 
 The following Python libraries must be installed in order to run the experiments:
-- `pandas`
-- `transformers`
-- `torch`
-- `tqdm`
-- `numpy`
-- `scikit-learn`
-- `plotly`
-- 
+- `pandas 2.1.1`
+- `transformers 4.40.2`
+- `torch 2.3.0`
+- `tqdm 4.66.4`
+- `numpy 1.26.3`
+- `scikit-learn 1.2.1`
+- `plotly 5.20.0`
 ## Synthetic-Trained Models
 
 The code for training the SVM, Na\"ive Bayes and BERT models on the synthetic data can be found within the directory `Experiments/SynthDataset/`.
