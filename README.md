@@ -96,7 +96,7 @@ For SVM and Na\"ive Bayes:
 - `domain_synth.ipynb`
 - `intent_synth.ipynb`
 - `slot_synth.ipynb`
-- 
+
 For BERT:
 - `BERT_Synth_Domain.ipynb`
 - `BERT_Synth_Intent.ipynb`
